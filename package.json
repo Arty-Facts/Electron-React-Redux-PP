@@ -69,19 +69,6 @@
       "target": "nsis"
     }
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com:Robinfr/electron-react-typescript.git"
-  },
-  "author": {
-    "name": "Your name",
-    "email": "Your email"
-  },
-  "license": "SEE LICENSE",
-  "bugs": {
-    "url": "https://github.com/Robinfr/electron-react-typescript/issues"
-  },
-  "homepage": "https://github.com/Robinfr/electron-react-typescript",
   "devDependencies": {
     "@types/electron-devtools-installer": "^2.0.2",
     "@types/jest": "^21.1.9",
